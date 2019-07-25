@@ -18,3 +18,5 @@ npm install request -S
 参考于https://github.com/liumin1128/api.react.mobi/blob/master/server/crawler/jojo.js
 用了很多js的异步操作但是没有用到request.get 请求ajax 爬取json，仅仅是通过node-fetch 有等待提高看看就行。
 仅供学习用，共勉。
+
+！！！！还存在bug 只能一章一章来 循环就会炸穿。。。。emm。菜醒
